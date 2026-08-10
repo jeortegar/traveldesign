@@ -43,12 +43,12 @@ export default function Footer() {
                 <section className="mb-3 mb-md-0">
                   <h3>{t("contact.title")}</h3>
                   <p>
-                    <Link href="mailto:contacto@td.com.mx">
-                      contacto@td.com.mx
+                    <Link href="mailto:Info@traveldesign.com.mx">
+                      Info@traveldesign.com.mx
                     </Link>
                   </p>
                   <p>
-                    <Link href="tel:+525598982433">+52 55 9898 2433</Link>
+                    <Link href="tel:+525598982432">+52 55 9898 2432</Link>
                   </p>
                 </section>
                 <section>
